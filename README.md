@@ -1,4 +1,4 @@
-# Mojiboom-support
+# Mojiboom Support
 
 Welcome to the support page for the Mojiboom game. Here, you can find answers to common questions, contact details for assistance, and resources to help you with our app.
 
